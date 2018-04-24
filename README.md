@@ -16,8 +16,9 @@
 
 # 如何生成 curl code
 
+![Image text](https://github.com/liangzhifeng/postman/blob/master/img/1.jpeg)
 
-
+![Image text](https://github.com/liangzhifeng/postman/blob/master/img/2.jpeg)
 
 得到 curl code 代码如下：
 
@@ -31,4 +32,4 @@
          "K2": 2
         }'
 
-其他人可以很容易通过 复制 -> 粘贴 -> 运行 -> 复现或比对curl code来解决。
+其他人可以很容易通过 复制 -> 粘贴 -> 运行 -> 复现或比对curl code的差异来解决。
