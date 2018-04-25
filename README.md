@@ -45,7 +45,7 @@
 
 双方可以很容易将上述curl code通过 复制 -> 粘贴 -> 运行 -> 复现或比对curl code的差异来解决问题。
 
-![Image text](https://github.com/liangzhifeng/postman/blob/master/img/3.jpeg)
+![Image text](https://github.com/liangzhifeng/postman/blob/master/img/3.png)
 
 
-经过实践，大大减少接口联调过程中出现的争吵、响应不及时、埋怨对方不配合或傻逼的各种不愉快。
+经过实践，大大减少接口联调过程中出现的争吵、响应不及时、埋怨对方不配合、互相鄙视的各种不愉快。
