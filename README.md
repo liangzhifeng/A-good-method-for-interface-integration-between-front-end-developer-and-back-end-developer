@@ -18,7 +18,7 @@
 
 手写curl code也是可以的, 但是没有利用工具方便。
 
-如果后端swagger上有curl code也是可以使用的，但没有postman有存储历史测试脚本的功能。
+如果后端swagger 接口文档上有curl code也是可以使用的，但没有postman有存储历史测试脚本的功能。
 
 # 如何生成 curl code
 
