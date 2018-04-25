@@ -38,7 +38,14 @@
          "K2": 2
         }'
 
-双方可以很容易通过 复制 -> 粘贴 -> 运行 -> 复现或比对curl code的差异来解决问题。
+
 
 
 # 拿到对方curl code在本机命令行执行
+
+双方可以很容易将上述curl code通过 复制 -> 粘贴 -> 运行 -> 复现或比对curl code的差异来解决问题。
+
+![Image text](https://github.com/liangzhifeng/postman/blob/master/img/3.jpeg)
+
+
+经过实践，大大减少接口联调过程中出现的争吵、响应不及时、埋怨对方不配合或傻逼的各种不愉快。
